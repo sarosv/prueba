@@ -70,7 +70,7 @@ _Herramientas que utilizadas_
 ## Autores ✒️
 
 * **Sebastian Aros** - *Trabajo Inicial* - 
-* **Sebastian Aros** - *Documentación* - 
+ 
 
 
 
