@@ -69,8 +69,8 @@ _Herramientas que utilizadas_
 
 ## Autores ✒️
 
-* **Sebastian Aros** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Sebastian Aros** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Sebastian Aros** - *Trabajo Inicial* - 
+* **Sebastian Aros** - *Documentación* - 
 
 
 
